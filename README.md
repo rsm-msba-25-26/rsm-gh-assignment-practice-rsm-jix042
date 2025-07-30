@@ -31,10 +31,11 @@ Provide the information requested below. Then (1) save this markdown (md) file, 
 
 Provide the information requested below:
 
-- Last name:
-- First (or preferred) name:
-- Favorite food:
-- Favorite recent Netflix movie or show:
+- Last name: Xu
+- First (or preferred) name: Jiachen
+- Favorite food: bibimbap
+- Favorite recent Netflix movie or show: Friends
+ (Completed individual assignment practice)
 
 ---
 
